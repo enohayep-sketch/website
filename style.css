@@ -335,3 +335,60 @@ section ul li:before {
 .cta-button:hover {
     background-color: #5a5a5a;
 }
+
+/* Blog Section */
+.blog-hero {
+    background-color: #f9f9f9;
+    padding: 100px 20px;
+    margin-bottom: 50px;
+    border-bottom: 1px solid #eeeeee;
+}
+
+.blog-hero h1 {
+    font-size: 48px;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.blog-hero p {
+    font-size: 18px;
+    color: #666;
+}
+
+.blog-list {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: left;
+    padding: 0 20px;
+}
+
+.blog-post {
+    margin-bottom: 80px;
+}
+
+.blog-date {
+    font-size: 14px;
+    color: #999;
+    margin-bottom: 10px;
+}
+
+.blog-title {
+    font-size: 28px;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.blog-content p {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 15px;
+    color: #444;
+}
+
+.blog-post img {
+    max-width: 100%;
+    height: auto;
+    margin: 20px 0;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
